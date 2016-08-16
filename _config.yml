@@ -1,0 +1,14 @@
+layout_spectrum: 0.8356576394289732
+typography_spectrum: 0.9146566786803305
+color:
+  brandStrength: 0.2311814366839826
+  lightness: 0.2585312183946371
+  saturation: 0.3534332448616624
+  rhythmicContrast: 0.30715067591518164
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: MELD
